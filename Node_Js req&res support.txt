@@ -1,0 +1,2 @@
+// res.setHeader('Content-Type', 'application/json');
+// res.cookie('"myapp-userid"',55, { maxAge: 10000});

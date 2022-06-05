@@ -1,0 +1,277 @@
+Separate function parts of thrty
+
+function ONE() {
+    1․․.
+    authentiaction      ->      Նույնականացում,
+    core                ->      միջուկը,
+    objective is        ->      նպատակն է,
+    Essential           ->      հիմնական,էական,հատուկ
+    Guide               ->      Ուղեցույց
+    Decentralized       ->      Ապակենտրոնացված
+    Commerce            ->      Առեւտուր
+    Platform            ->      Հարթակ
+    Solidity            ->      Պինդություն,ամրություն
+    able                ->      կարողանալ
+    plugin              ->      միացնել,
+    configuration       ->      կարգավորում,կազմել
+    defaults            ->      նախնական,սկզբնական
+    defines             ->      սահմանել
+    options             ->      տարբերակ
+    envelope            ->      ծրար
+    identity            ->      ինքնությունը
+    Price               ->      գին
+    Trusted             ->      վստահելի
+    stronger            ->      Ուժեղ
+    Divide              ->      Բաժանել
+    credentials         ->      լիազորագիր,հավատարմագրերը
+    attempt             ->      փորձ
+    scheduled           ->      նախատեսված 
+    specify             ->      մատնանշել,հատուկ 
+    disruption          ->      խզում,խափանում
+
+
+    /*  Repeate Word  */
+    < Enterprise        ->      Ձեռնարկություն >
+    < specify           ->      մատնանշել,հատուկ >
+    < disruption        ->      խզում,խափանում >
+    < scheduled         ->      նախատեսված >
+    ․․.
+}
+
+function Two() {
+    2...
+    Layer               ->      Շերտ
+    badge               ->      կրծքանշան
+    rank                ->      աստիճան
+    rate                ->      տոկոս,նորմա
+    limit               ->      սահմանաչափ
+    details             ->      մանրամասն
+    measuring           ->      չափում
+    delivery            ->      առաքվել է
+    examine             ->      քննել
+    obey                ->      ենթարկվել
+    tutorial            ->      ձեռնարկ
+    focused             ->      Կենտրոնանալ 
+    annoying            ->      նյարդայնացնող
+    setting up          ->      կարգավորում
+    ascending           ->      բարձրացող
+    descending          ->      իջնող
+    order               ->      պատվեր
+    sorts               ->      տեսակավորել
+    serve               ->      ծառայել
+    handel              ->      ձեռքով
+    precision,accurate  ->      ճշգրիտ
+    bait                ->      խայծ
+    optimized           ->      կրճատել
+    expiration          ->      ժամկետի ավարտ
+    introduce           ->      ներկայացնել
+    identification      ->      նույնականացնել
+    authentiaction      ->      նույնականացնել
+    observe             ->      դիտարկել
+    Assessment          ->      գնահատում
+    recipients          ->      ստացող
+    < establish         ->      հաստատել >
+    < recipients        ->      ստացող >
+    < focused           ->      Կենտրոնանալ >
+    ․․․
+}
+
+function Three() {
+    3...
+    ensure              ->      ապահովել
+    improbability       ->      անհավանականություն
+    propable            ->      հավանական է
+    unpredictable       ->      անկանխատեսելի     
+    announced           ->      հայտարարել
+    EXPOSE              ->      բացահայտել
+    Ephemeral           ->      Ժամանակավոր
+    Temprory            ->      ժամանակավոր
+    deprecate           ->      հնազանդեցնել
+    enjoy               ->      բավականություն ստանալ,վայելել
+    enjoin              ->      պատվիրել
+    annoying            ->      նյարդայնացնող
+    implied             ->      ենթադրել
+    Assume              ->      ենթադրել
+    supposed            ->      ենթադրել
+    order               ->      պատվեր
+    line                ->      գիծ
+    transformation      ->      վերափոխում
+    represent           ->      ներկայացնել
+    Comma               ->      ստորակետ
+    orientation         ->      կողմնորոշում
+    intended            ->      նախատեսվ ած է
+    scheduled           ->      նախատեսված
+    pure                ->      մաքուր
+    Compare             ->      համեմատել
+    infer               ->      եզրակացնել
+    surface             ->      մակերեւույթ
+    geometry            ->      երկրաչափություն
+    resolution          ->      բանաձեվ,որոշում
+    input               ->      մուտքագրում
+    estimate            ->      գնահատում
+    Utilities           ->      Կոմունալ ծառայություններ
+    ․․․
+}
+
+function Four() {
+    ...
+    transactionID           ->              Գործարքի համար
+    supplier                ->              մատակարար
+    achieved                ->              հասել է
+    quit                    ->              թողնել
+    estimate                ->              հաշվարկել
+    available               ->              հասանելի
+    organize                ->              կազմակերպել
+    multiple                ->              բազմակի
+    common                  ->              ընդհանուր
+    extends                 ->              տարածվում է
+    advantages              ->              առավելություն 
+    trigger                 ->              ձգան
+    loading                 ->              բեռնել
+    Plural                  ->              հոգնակի
+    properly                ->              ճշգրիտ
+    correspond              ->              համապատասխան
+    via                     ->              միջոցով
+    Saturation              ->              Հագեցվածություն
+    replace                 ->              փոխարինել
+    avoided                 ->              խուսափել
+    forced                  ->              հարկադրել
+    Estimation              ->              գնահատում
+    satisfied               ->              գոհ
+    anchors                 ->              լինկերին անգլերեն սենց են ասում
+    privileges              ->              արտոնություններ
+    applies                 ->              կիրառվում է
+    retriewe                ->              ստանալ
+    Access                  ->              մուտք
+    enclosing               ->              փաթաթել
+    extra,additional        ->              հավելյալ
+    blocklist               ->              գաղտնի ցուցակ
+    destination             ->              նշանակություն
+    forbid                  ->              արգելել
+    customize               ->              հարմարեցնել
+    apologize               ->              ներողություն խնդրել
+    exhibited               ->              ցուցադրվել է
+
+    ...
+}
+
+function Fife() {
+    complex             ->      համալիր
+    sequence            ->      հաջորդականություն
+    prompting           ->      հուշում    
+    permission          ->      թույլտվություն
+    ensuring            ->      ապահովելով
+    implementor         ->      իրականացնող
+    arbitrarily         ->      կամայականորեն
+    issued              ->      թողարկված
+    obtained            ->      ձեռք բերված
+    supplied            ->      մատակարարված
+    Suspicious          ->      Կասկածելի
+    Consumer            ->      սպառող
+    Excellent           ->      Գերազանց
+    exceed              ->      գերազանցել
+    expect              ->      ակնկալել
+    overflow or maximum ->      վարարել,արտահոսք,չափն անցնել
+    engine              ->      շարժիչ
+    preference          ->      նախասիրություն
+    EXPLORE             ->      ՈՒՍՈՒՄՆԱՍԻՐԵԼ
+    Perspective         ->      Հեռանկար
+    Bitrates            ->      Բիթերի արագություն
+}
+
+function six() {
+    ...
+    dictionary      ->      բառարան
+    restrictions    ->      սահմանափակում
+    replace         ->      փոխարինել
+    detail          ->      մանրամասն
+    trace           ->      հետք    
+    exception       ->      բացառություն
+    securely        ->      Ապահով կերպով
+    private         ->      մասնավոր
+    encrypted       ->      կոդավորված
+    focus           ->      կենտրոնանալ
+    tokens          ->      նշան
+    integrity       ->      ամբողջական
+    structure       ->      կառւցվածք
+    Signature       ->      ստորագրություն
+    Payload         ->      օգտակար բեռ
+    claims          ->      պնդում
+    statements      ->      հայտարարություն
+    mandatory       ->      պարտադիր
+    recommended     ->      խորհուրդ է տրվում
+    issuer          ->      թողարկող
+    audience        ->      հանդիսատես
+    Implement       ->      իրականացնել
+    Encrypt         ->      գաղտնագրել
+    bound           ->      կապված
+    enables         ->      հնարավորություն Տալ
+    range           ->      միջակայք
+    Frequence       ->      Հաճախականություն
+    orientation     ->      կողմնորոշում
+    Stretches       ->      Ձգվում է
+    Edge            ->      եզր
+    assume          ->      ենթադրել  
+    recognize       ->      ճանաչել
+    compare         ->      համեմատել
+}
+
+function seven() {
+    ...
+    Perspective     ->      հեռանկար
+    compute         ->      հաշվարկել
+    Detector        ->      որոշող,Հայտնաբերում
+    implementation  ->      իրականացումը
+    Dimensions      ->      Չափերը
+    Predictable     ->      Կանխատեսելի
+    Reliable        ->      Հուսալի
+    benefits        ->      օգուտները
+    rely            ->      ապավինել
+    sequentially    ->      հաջորդաբար
+    interrupt       ->      Ընդհատել
+    preventing      ->      կանխարգելող
+    sentence        ->      նախադասություն
+    Layout          ->      Դասավորություն
+    
+    crash           ->      Վթար
+    Schedule        ->      Պլանավորված
+    Imitation       ->      ընդօրինակում
+    Layout          ->      ԴԱՍԱՎՈՐՈՒՄ
+    issues          ->      հարցերը
+    delicious       ->      համեղ
+    leak            ->      արտահոսք
+    Fatal           ->      Ճակատագրական
+    Encountered     ->      Հանդիպեց
+    intention       ->      մտադրություն
+
+
+    ...
+}
+
+function eight() {
+    ...
+    privilege       ->      Արտոնություն
+    summary         ->      ամփոփում
+    Classify        ->      Դասակարգել
+    periodically    ->      պարբերաբար
+    releases        ->      թողարկումներ
+    Heaven          ->      Դրախտ
+    Դրախտ           ->      Դրախտ
+    Fairy tales     ->      հեքիաթ
+    Silence         ->      Լռություն
+    Whist           ->      Լռեցե'ք
+    terminated      ->      դադարեցված
+    Emmited         ->      Արտանետվել     
+    assert          ->      հաստատել 
+    assets          ->      ակտիվներ
+    Enterprise      ->      Ձեռնարկություն
+    Enumerable      ->      Թվարկելի
+    preflight       ->      թռիչք
+    ensure          ->      ապահովել
+    Expose          ->      Բացահայտել
+    ...
+}
+
+
+
+   

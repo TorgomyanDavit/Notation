@@ -1,0 +1,11 @@
+import {body,validationResult} from "express-validator"
+
+app.post("/register",body('password').isLength({min: 6}),async (req,res) => {
+    const errors = validationResult(req);
+    if(!errors.isEmpty()) {
+        return res.send(response)
+    }
+    console.log(errors.errors);
+    console.log(errors.isEmpty());
+    return ;
+}

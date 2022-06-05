@@ -1,0 +1,5 @@
+jwt.decode(Token,process.env.ACCESTOKEN);
+jwt.verify(Token,process.env.ACCESTOKEN);
+jwt.sign(user[0][0],process.env.ACCESTOKEN,{expiresIn:'60s'});
+await bcrypt.compare(password,bcryptPassword);
+await bcrypt.hash(newPassword,10);

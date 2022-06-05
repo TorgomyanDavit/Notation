@@ -1,0 +1,18 @@
+    // function start() {
+    //     tizen.tvinputdevice.registerKey('MediaPlay', 'MediaPause','MediaStop','MediaFastForward','MediaRewind');
+    //     webapis.avplay.open("http://fcf2e861.ucomist.net/iptv/CB5F2GMTR7SUDF/11007/index.m3u8");
+    //     webapis.avplay.setDisplayRect(0,0,1920,1080);
+    //     webapis.avplay.prepare();                
+    //     webapis.avplay.play();
+    // }
+    // start()
+
+
+
+
+for index html file 
+<object id="av-player" type="application/avplayer"></object>;
+
+for js 
+<script type='text/javascript' src='$WEBAPIS/webapis/webapis.js'></script>;
+

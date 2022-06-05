@@ -1,0 +1,10 @@
+npm or expo install expo-av
+import { Video } from "expo-av";
+<Video  
+    source={ { uri: "http://fcf2e861.ucomist.net/iptv/CB5F2GMTR7SUDF/11007/index.m3u8" } }
+    style={{width:300,height:300}}  
+    resizeMode="contain"   
+    isLooping
+    useNativeControls     
+    volume={1}
+/> 

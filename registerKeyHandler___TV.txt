@@ -1,0 +1,41 @@
+
+function registerMouseEvents() {
+    document.querySelector('.video-controls .play').addEventListener(
+        'click',
+        function () {
+            player.play();
+        }
+    );
+    document.querySelector('.video-controls .stop').addEventListener(
+        'click',
+        function () {
+            player.stop();
+        }
+    );
+    document.querySelector('.video-controls .pause').addEventListener(
+        'click',
+        function() {
+            player.pause();
+        }
+        
+    );
+    document.querySelector('.video-controls .ff').addEventListener(
+        'click',
+        function() {
+            player.ff()
+        }
+    );
+    document.querySelector('.video-controls .rew').addEventListener(
+        'click',
+        function() {
+            player.rew();
+        }
+    );
+    document.querySelector('.video-controls .fullscreen').addEventListener(
+        'click',
+        function() {
+            player.toggleFullscreen();
+        }
+    );
+}
+registerMouseEvents()

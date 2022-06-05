@@ -1,0 +1,2 @@
+npm install react-i18next i18next i18next-http-backend i18next-browser-languagedetector  --save;   -> i18next installation guid
+npm install node-fetch ; -> import fetch from 'node-fetch'; -> const response = await fetch('https://github.com/');

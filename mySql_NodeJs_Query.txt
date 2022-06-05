@@ -1,0 +1,2 @@
+?? QUERY ??
+/* UPDATE */ await pool.query(`UPDATE users SET password = ?, changing_password_time = ? WHERE users.id = ?`,[Password,DateNow,id]);

@@ -1,0 +1,15 @@
+import assert from "assert"
+
+const first = { a : { b : 10 }, c : [1,2,3,{name:"joe"}] };
+const second = { a : { b : 10 }, c : [1,2,3,{name:"joe"}] };
+const third = { a : { b : '10' }, c : [1,2,3,{name:"vrdo"}]};
+const fourth = { a : { b : 30 }, c : ["1",2,3,{name:"joe"}] };
+const fifth = Object.create(first);
+
+try{
+    console.log(assert.deepStrictEqual(first, fourth, "Assertion Error: The objects are not deep equal."))
+    console.log("its are equal")
+}
+catch(error){
+console.log(error.message)
+}
